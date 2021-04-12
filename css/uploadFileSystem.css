@@ -1,0 +1,47 @@
+#left_side{
+    /*background: #003333;*/
+    background: white;
+    box-shadow:  rgba(0,0,0,0.6) 0px 0px 5px 3px ;
+    z-index: 20;
+    height:auto;
+
+
+}
+.outerUl{
+    color: white;
+    padding-top: 20%;
+}
+.innerUL li{
+    padding-top: 5%;
+}
+.innerUL li a{
+    text-decoration: none;
+    color: white;
+}
+.innerUL li a:hover{
+    color:grey;
+}
+ul{
+    list-style-type: none;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    cursor: pointer;
+    color:darkgrey;
+}
+.header{
+    background: #003333;
+    color: white;
+    box-shadow:  rgba(0,0,0,0.2) 0px 0px 5px 3px ;
+}
+#right_side{
+    background-image: url("../img/music_man/5.png");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
+/*dashboard*/
+.single_statistic{
+    height: 150px;
+}

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="234adcb8-27b8-4435-a2b5-e6e729c58d20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ay3iSDry4RRkGXoEGIUIdXTrv2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\soundsMalawi\views" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="234adcb8-27b8-4435-a2b5-e6e729c58d20" name="Default Changelist" comment="" />
+      <created>1587694132187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587694132187</updated>
+      <workItem from="1587694133408" duration="15761000" />
+      <workItem from="1587753751008" duration="9474000" />
+      <workItem from="1587783613905" duration="27443000" />
+      <workItem from="1587915927753" duration="16142000" />
+      <workItem from="1588012168240" duration="9467000" />
+      <workItem from="1588104249783" duration="58275000" />
+      <workItem from="1588621543795" duration="13739000" />
+      <workItem from="1588660061535" duration="1227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="172" key="FileChooserDialogImpl" timestamp="1587915972372">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="172" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1587915972372" />
+    <state x="598" y="245" key="NewPhpClassDialog" timestamp="1587854670391">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="598" y="245" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1587854670391" />
+    <state x="635" y="354" key="NewPhpFileDialog" timestamp="1588264360038">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="635" y="354" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1588264360038" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1588294471503">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1588294471503" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
